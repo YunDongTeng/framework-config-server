@@ -1,3 +1,4 @@
 server:
   port: 8902
-  url: http://prod.com
+  remote:
+    url: http://prod.com

@@ -1,3 +1,4 @@
 server:
   port: 6389
-  url: http://test.com
+  remote:
+    url: http://test.com

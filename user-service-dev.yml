@@ -1,3 +1,4 @@
 server:
   port: 7901
-  url: http://dev.com
+  remote:
+    url: http://dev.com

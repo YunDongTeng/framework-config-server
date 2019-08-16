@@ -1,5 +1,5 @@
 test:
   port: 3333
   remote:
-    url: http:/prod.dist.com
+    url: http:/prod.ship.com
   name: prod

@@ -1,4 +1,5 @@
-server:
-  port: 8902
+test:
+  port: 3333
   remote:
-    url: http://prod.com
+    url: http:/prod.com
+  name: prod

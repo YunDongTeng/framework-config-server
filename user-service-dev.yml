@@ -1,4 +1,5 @@
-server:
-  port: 7901
+test:
+  port: 2222
   remote:
     url: http://dev.com
+  name: test
